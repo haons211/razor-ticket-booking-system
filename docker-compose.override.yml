@@ -1,0 +1,15 @@
+﻿services:
+  razor-ticket-booking-system:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - DOTNET_USE_POLLING_FILE_WATCHER=1  
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ASPNETCORE_HTTPS_PORTS=8081
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    volumes:
+      - ./razor-ticket-booking-system:/src/razor-ticket-booking-system  
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+    command: ["dotnet", "watch", "run", "--urls", "http://0.0.0.0:8080", "--verbosity", "minimal"]

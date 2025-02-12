@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  razor-ticket-booking-system:
+    container_name: ticket-system-app
+    image: ${DOCKER_REGISTRY-}razorticketbookingsystem
+    build:
+      context: .
+      dockerfile: razor-ticket-booking-system/Dockerfile
+    depends_on:
+      - ticket-system-db
+    networks:
+      - app-network
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      ASPNETCORE_URLS: "http://+:8080"
+      ConnectionStrings__DefaultConnection: "Server=tcp:ticket-system-db,1433;Database=RazorDB;User Id=sa;Password=YourStrong@Passw0rd;"
+
+  ticket-system-db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: ticket-system-db
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "YourStrong@Passw0rd"
+      ACCEPT_EULA: "Y"
+    networks:
+      - app-network
+    restart: always
+
+networks:
+  app-network:
+    driver: bridge

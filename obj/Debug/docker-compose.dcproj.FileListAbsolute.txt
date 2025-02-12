@@ -1,0 +1,11 @@
+C:\Users\haons211\Documents\razor-ticket-booking-system\bin\Debug\razor-ticket-booking-system.deps.json
+C:\Users\haons211\Documents\razor-ticket-booking-system\bin\Debug\razor-ticket-booking-system.runtimeconfig.json
+C:\Users\haons211\Documents\razor-ticket-booking-system\bin\Debug\appsettings.Development.json
+C:\Users\haons211\Documents\razor-ticket-booking-system\bin\Debug\appsettings.json
+C:\Users\haons211\Documents\razor-ticket-booking-system\bin\Debug\razor-ticket-booking-system.staticwebassets.runtime.json
+C:\Users\haons211\Documents\razor-ticket-booking-system\bin\Debug\razor-ticket-booking-system.exe
+C:\Users\haons211\Documents\razor-ticket-booking-system\bin\Debug\razor-ticket-booking-system.dll
+C:\Users\haons211\Documents\razor-ticket-booking-system\bin\Debug\razor-ticket-booking-system.pdb
+C:\Users\haons211\Documents\razor-ticket-booking-system\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\haons211\Documents\razor-ticket-booking-system\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\haons211\Documents\razor-ticket-booking-system\obj\Debug\docker-c.35A3FFBA.Up2Date
