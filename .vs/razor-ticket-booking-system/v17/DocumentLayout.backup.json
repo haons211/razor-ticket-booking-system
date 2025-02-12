@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|solutionrelative:razor-ticket-booking-system\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|solutionrelative:razor-ticket-booking-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDE66406-675F-4FE6-974A-A06E4A94A02B}|docker-compose.dcproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BDE66406-675F-4FE6-974A-A06E4A94A02B}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDE66406-675F-4FE6-974A-A06E4A94A02B}|docker-compose.dcproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BDE66406-675F-4FE6-974A-A06E4A94A02B}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\models\\testmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|solutionrelative:razor-ticket-booking-system\\models\\testmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|solutionrelative:razor-ticket-booking-system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\migrations\\20250212184324_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|solutionrelative:razor-ticket-booking-system\\migrations\\20250212184324_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\razor-ticket-booking-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|solutionrelative:razor-ticket-booking-system\\razor-ticket-booking-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDE66406-675F-4FE6-974A-A06E4A94A02B}|docker-compose.dcproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BDE66406-675F-4FE6-974A-A06E4A94A02B}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|solutionrelative:razor-ticket-booking-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBB56EC2-7BEE-4DEA-A451-7AF5A026C6C8}|razor-ticket-booking-system\\razor-ticket-booking-system.csproj|c:\\users\\haons211\\documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -38,84 +38,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 80,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "razor-ticket-booking-system\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Properties\\launchSettings.json",
-              "RelativeToolTip": "razor-ticket-booking-system\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T14:57:55.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "razor-ticket-booking-system",
-              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\razor-ticket-booking-system.csproj",
-              "RelativeDocumentMoniker": "razor-ticket-booking-system\\razor-ticket-booking-system.csproj",
-              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\razor-ticket-booking-system.csproj",
-              "RelativeToolTip": "razor-ticket-booking-system\\razor-ticket-booking-system.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-12T14:57:40.101Z",
+              "Title": "TestModel.cs",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Models\\TestModel.cs",
+              "RelativeDocumentMoniker": "razor-ticket-booking-system\\Models\\TestModel.cs",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Models\\TestModel.cs",
+              "RelativeToolTip": "razor-ticket-booking-system\\Models\\TestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:51:46.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
+              "Title": "20250212184324_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Migrations\\20250212184324_InitialCreate.cs",
+              "RelativeDocumentMoniker": "razor-ticket-booking-system\\Migrations\\20250212184324_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Migrations\\20250212184324_InitialCreate.cs",
+              "RelativeToolTip": "razor-ticket-booking-system\\Migrations\\20250212184324_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-12T14:52:52.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-11T16:51:32.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "docker-compose.dcproj",
-              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\docker-compose.dcproj",
-              "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\docker-compose.dcproj",
-              "RelativeToolTip": "docker-compose.dcproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-11T16:50:04.31Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:51:37.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\.dockerignore",
-              "RelativeDocumentMoniker": ".dockerignore",
-              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\.dockerignore",
-              "RelativeToolTip": ".dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-11T16:42:49.981Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Program.cs",
+              "RelativeDocumentMoniker": "razor-ticket-booking-system\\Program.cs",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Program.cs",
+              "RelativeToolTip": "razor-ticket-booking-system\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:33:55.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\appsettings.json",
+              "RelativeDocumentMoniker": "razor-ticket-booking-system\\appsettings.json",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\appsettings.json",
+              "RelativeToolTip": "razor-ticket-booking-system\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T18:11:38.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-12T18:05:52.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -125,9 +113,23 @@
               "RelativeDocumentMoniker": "razor-ticket-booking-system\\Dockerfile",
               "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Dockerfile",
               "RelativeToolTip": "razor-ticket-booking-system\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-03T18:58:04.134Z"
+              "WhenOpened": "2025-02-12T18:05:44.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Data\\DBContext.cs",
+              "RelativeDocumentMoniker": "razor-ticket-booking-system\\Data\\DBContext.cs",
+              "ToolTip": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\Data\\DBContext.cs",
+              "RelativeToolTip": "razor-ticket-booking-system\\Data\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:03:06.969Z",
+              "EditorCaption": ""
             }
           ]
         }

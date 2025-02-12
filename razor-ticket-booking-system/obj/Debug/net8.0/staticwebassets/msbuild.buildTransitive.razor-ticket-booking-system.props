@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/razor-ticket-booking-system.props" />
-</Project>

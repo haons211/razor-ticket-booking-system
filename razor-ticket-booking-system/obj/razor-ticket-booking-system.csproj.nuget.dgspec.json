@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/src/razor-ticket-booking-system/razor-ticket-booking-system.csproj": {}
+    "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\razor-ticket-booking-system.csproj": {}
   },
   "projects": {
-    "/src/razor-ticket-booking-system/razor-ticket-booking-system.csproj": {
+    "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\razor-ticket-booking-system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/src/razor-ticket-booking-system/razor-ticket-booking-system.csproj",
+        "projectUniqueName": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\razor-ticket-booking-system.csproj",
         "projectName": "razor-ticket-booking-system",
-        "projectPath": "/src/razor-ticket-booking-system/razor-ticket-booking-system.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/src/razor-ticket-booking-system/obj/",
+        "projectPath": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\razor-ticket-booking-system.csproj",
+        "packagesPath": "C:\\Users\\haons211\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haons211\\Documents\\razor-ticket-booking-system\\razor-ticket-booking-system\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\haons211\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,9 +49,27 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.21.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -67,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

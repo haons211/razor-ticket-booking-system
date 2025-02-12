@@ -16,7 +16,6 @@ services:
       - "8080:8080"
     environment:
       ASPNETCORE_URLS: "http://+:8080"
-      ConnectionStrings__DefaultConnection: "Server=tcp:ticket-system-db,1433;Database=RazorDB;User Id=sa;Password=YourStrong@Passw0rd;"
 
   ticket-system-db:
     image: mcr.microsoft.com/mssql/server:2022-latest
