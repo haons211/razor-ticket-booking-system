@@ -42,6 +42,7 @@ http://localhost:8080/
 ``` 
 ### 4     . Set up SQL Server Management
 
+![Description](Screenshot%202025-02-13%20024328.png)
 
 
 
